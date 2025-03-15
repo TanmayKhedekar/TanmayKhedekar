@@ -66,6 +66,4 @@ Welcome to my GitHub profile! I’m passionate about coding, problem-solving, an
 ### 🚀 Let's Code Together!
 Feel free to connect with me to discuss ideas, collaborate on projects, or just chat about tech. Happy coding! 😄
 
----
 
-This version includes Python, LLMs, LangChain, and Hugging Face under the AI/ML & LLMs section. Let me know if you need any more tweaks!
