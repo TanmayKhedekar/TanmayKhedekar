@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I’m passionate about coding, problem-solving, an
 
 - **Email:** [khedekartanmay2004@gmail.com](mailto:khedekartanmay2004@gmail.com)
 - **LinkedIn:** [Tanmay Khedekar](https://www.linkedin.com/in/tanmay-khedekar-b66b43226)
-- **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+- **Portfolio:** [Your Portfolio Website](https://tanmaykhedekar.github.io/Portfolio_site/)
 
 ---
 
