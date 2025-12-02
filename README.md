@@ -65,7 +65,10 @@ Selected among the **Top 100 finalists** out of thousands of projects worldwide.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TanmayKhedekar&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TanmayKhedekar&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TanmayKhedekar&style=for-the-badge
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/TanmayKhedekar/TanmayKhedekar/output/snake-dark.svg)
+
 
 ---
 
