@@ -1,82 +1,161 @@
-# 👋 Hi there, I'm Tanmay Khedekar!
+Love this already, Tanmay — solid first README 👏
+I’ll **upgrade it to a clean, modern, 2026-ready GitHub README** while keeping *your voice*, achievements, and AI/LLM focus sharp.
+Below is a **fully updated version** you can **directly copy-paste** into your `README.md`.
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions, exploring AI/ML, and solving complex problems. I enjoy working on real-world impactful projects and constantly pushing myself to learn new technologies.
+---
+
+# 👋 Hi, I’m **Tanmay Khedekar**
+
+🚀 **AI / ML Engineer | LLM & GenAI Developer | Full-Stack Enthusiast**
+
+I’m a passionate developer who loves building **real-world AI solutions**, fine-tuning **LLMs**, and turning complex ideas into scalable products.
+I enjoy hackathons, research-driven projects, and constantly leveling up my skills in **AI, ML, and system design**.
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 **Core Skills:** Python, Java, C++, DSA, MySQL, MongoDB, Web Development, AI/ML, GenAI, LLMs, LangChain, HuggingFace, Data Analysis  
-- 🌱 **Currently Learning:** Advanced AI/LLM techniques, full-stack development, model fine-tuning and deployment  
-- 🏆 **Achievement:**  
-  **3rd Runner-Up – Gen AI Exchange Hackathon 2025** (Google Cloud × Hack2Skill)  
-  - Among **278K+ developers**, **187K teams**, and **4457 prototypes**  
-  - Selected in **Top 100 finalists**  
-  - Built *AI-Powered Marketplace Assistant for Local Artisans* (Student Track)  
-- 🤝 **Open to Collaborate On:** AI/ML, LLM apps, Generative AI projects, MERN stack apps, automation tools, open-source  
-- ⚡ **Fun Fact:** I love fine-tuning LLMs, exploring deep learning architectures & competing in hackathons!
+* 🎓 **B.Tech (Final Year)** – Computer Engineering
+* 💻 **Primary Focus:** AI/ML, LLMs, Generative AI, Full-Stack Development
+* 🔬 **Current Interests:**
+
+  * LLM fine-tuning & deployment
+  * Retrieval-Augmented Generation (RAG)
+  * LangChain & Agentic workflows
+  * Edge AI & applied ML research
+
+### 🏆 Highlights
+
+* 🥉 **3rd Runner-Up – Gen AI Exchange Hackathon 2025**
+  *(Google Cloud × Hack2Skill)*
+
+  * 🌍 Competed among **278K+ developers**, **187K teams**, **4,457 prototypes**
+  * 🏅 **Top 100 Finalists (Student Track)**
+  * 🛒 Built an **AI-Powered Marketplace Assistant for Local Artisans**
+
+* 💼 **Internship Experience:**
+
+  * Worked on **LLMs, tokenization, fine-tuning, evaluation & deployment**
+  * Hands-on experience with **real production pipelines**
+
+* 🤝 **Open to Collaborate On:**
+
+  * AI/ML & GenAI projects
+  * LLM applications (RAG, Agents, Chatbots)
+  * MERN stack & automation tools
+  * Open-source & research-oriented work
+
+* ⚡ **Fun Fact:**
+  I genuinely enjoy debugging models, optimizing prompts, and competing in hackathons 🧠🔥
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus\&logoColor=white)
+
+---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white)
+
+---
 
 ### 🤖 AI / ML / LLMs
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFCC00?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-0F9D58?style=flat)
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface\&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-0F9D58)
+![GenAI](https://img.shields.io/badge/-Generative%20AI-8A2BE2)
 
 ---
 
-## 🏅 Achievements
+### 🌐 Web & Full-Stack
 
-### 🥉 **Gen AI Exchange Hackathon 2025 – 3rd Runner-Up (Student Track)**
-Built an **AI-Powered Marketplace Assistant for Local Artisans** using GenAI + LLMs.  
-Selected among the **Top 100 finalists** out of thousands of projects worldwide.
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![MERN](https://img.shields.io/badge/-MERN%20Stack-3FA037)
 
 ---
 
-## 📈 GitHub Stats
+### 🔧 Tools & Platforms
 
-> ⭐ *These stats use a stable mirror and will always load.*
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter\&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase\&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud\&logoColor=white)
 
-![Tanmay's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanmayKhedekar&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TanmayKhedekar&layout=compact&theme=radical)
+## 🚀 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TanmayKhedekar&theme=radical)
+🔹 **AI-Powered Marketplace Assistant**
 
-![Profile Views](https://komarev.com/ghpvc/?username=TanmayKhedekar&style=for-the-badge
+* GenAI + LLM-based conversational assistant
+* Helps local artisans with pricing, inventory & customer queries
+
+🔹 **NL2SQL Streamlit App**
+
+* Converts natural language → SQL queries
+* Supports database upload, exploration & visualization
+
+🔹 **Network Threat Detection using LLMs**
+
+* Trained & evaluated LLMs for traffic classification
+* Focus on security & explainability
+
+🔹 **Edge AI – Accident Prevention in Fog**
+
+* Research-oriented project using **Edge AI + Computer Vision**
+
+*(More projects pinned below 👇)*
+
+---
+
+## 📊 GitHub Stats
+
+![Tanmay's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanmayKhedekar\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TanmayKhedekar\&layout=compact\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=TanmayKhedekar\&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TanmayKhedekar\&style=for-the-badge)
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/TanmayKhedekar/TanmayKhedekar/output/snake-dark.svg)
 
+---
+
+## 🔗 Let’s Connect
+
+* 📧 **Email:** [khedekartanmay2004@gmail.com](mailto:khedekartanmay2004@gmail.com)
+* 💼 **LinkedIn:** [Tanmay Khedekar](https://www.linkedin.com/in/tanmay-khedekar-b66b43226)
+* 🌐 **Portfolio:** [tanmaykhedekar.github.io/Portfolio_site](https://tanmaykhedekar.github.io/Portfolio_site/)
 
 ---
 
-## 🔗 Connect With Me
-
-- 📧 **Email:** [khedekartanmay2004@gmail.com](mailto:khedekartanmay2004@gmail.com)  
-- 💼 **LinkedIn:** [Tanmay Khedekar](https://www.linkedin.com/in/tanmay-khedekar-b66b43226)  
-- 🌐 **Portfolio:** [tanmaykhedekar.github.io/Portfolio_site](https://tanmaykhedekar.github.io/Portfolio_site/)
+⭐ *If you like my work, consider starring my repositories!*
+🚀 *Always open to learning, building & collaborating.*
 
 ---
 
+### 🔥 Want next?
+
+I can:
+
+* Optimize this for **recruiters**
+* Add **animated typing header**
+* Add **badges for LeetCode / Kaggle**
+* Create a **pinned projects section**
+* Make it **FAANG / AI-startup ready**
+
+Just tell me 💪
