@@ -125,6 +125,9 @@ I enjoy hackathons, research-driven projects, and constantly leveling up my skil
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TanmayKhedekar&style=for-the-badge)
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/TanmayKhedekar/TanmayKhedekar/output/snake-dark.svg)
+
+
 
 ## 🔗 Let’s Connect
 
