@@ -117,17 +117,14 @@ I enjoy hackathons, research-driven projects, and constantly leveling up my skil
 
 ## 📊 GitHub Stats
 
-![Tanmay's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanmayKhedekar\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayKhedekar&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TanmayKhedekar\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKhedekar&layout=compact&theme=radical&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TanmayKhedekar\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TanmayKhedekar&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TanmayKhedekar\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TanmayKhedekar&style=for-the-badge)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/TanmayKhedekar/TanmayKhedekar/output/snake-dark.svg)
-
----
 
 ## 🔗 Let’s Connect
 
