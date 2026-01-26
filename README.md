@@ -136,17 +136,3 @@ I enjoy hackathons, research-driven projects, and constantly leveling up my skil
 
 ⭐ *If you like my work, consider starring my repositories!*
 🚀 *Always open to learning, building & collaborating.*
-
----
-
-### 🔥 Want next?
-
-I can:
-
-* Optimize this for **recruiters**
-* Add **animated typing header**
-* Add **badges for LeetCode / Kaggle**
-* Create a **pinned projects section**
-* Make it **FAANG / AI-startup ready**
-
-Just tell me 💪
