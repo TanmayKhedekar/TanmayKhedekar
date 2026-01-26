@@ -1,9 +1,3 @@
-Love this already, Tanmay — solid first README 👏
-I’ll **upgrade it to a clean, modern, 2026-ready GitHub README** while keeping *your voice*, achievements, and AI/LLM focus sharp.
-Below is a **fully updated version** you can **directly copy-paste** into your `README.md`.
-
----
-
 # 👋 Hi, I’m **Tanmay Khedekar**
 
 🚀 **AI / ML Engineer | LLM & GenAI Developer | Full-Stack Enthusiast**
