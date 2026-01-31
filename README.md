@@ -1,10 +1,11 @@
 # 👋 Hi, I’m **Tanmay Khedekar**
 
-🚀 **AI / ML Engineer | LLM & GenAI Developer | Backend & Full-Stack Enthusiast**
+🚀 **AI / ML Engineer | LLM & GenAI Developer | Backend & Full-Stack Enthusiast | Data Science | SDE**
 
-Final-year Computer Science student specializing in **Artificial Intelligence, Machine Learning, and Generative AI**.
-Hands-on experience in **LLM fine-tuning, backend inference pipelines, and AI system deployment**.
+Final-year Computer Science student with a strong focus on **Artificial Intelligence and Machine Learning**, and solid foundations in **Data Science and Software Development Engineering (SDE)**.
+Hands-on experience in **LLM fine-tuning, data-driven model development, backend inference pipelines, and scalable AI system deployment**.
 Winner of **Google GenAI Exchange Hackathon 2025**.
+.
 
 ---
 
@@ -12,12 +13,12 @@ Winner of **Google GenAI Exchange Hackathon 2025**.
 
 * 🎓 **B.Tech (Final Year)** – Computer Science Engineering  
 * 📍 Pune, Maharashtra, India  
-* 💡 **Primary Focus:** AI/ML, LLMs, GenAI, Backend Systems  
+* 💡 **Primary Focus:** AI / ML (core), with strong exposure to Data Science and SDE  
 * 🔬 **Current Interests:**
-  * LLM fine-tuning (LoRA, PEFT)
-  * Retrieval-Augmented Generation (RAG)
-  * Agentic workflows & LangChain
-  * Scalable inference APIs & Edge AI
+  * LLM fine-tuning & evaluation (LoRA, PEFT)
+  * Applied Machine Learning & Data Science workflows
+  * Backend systems for AI (FastAPI, inference pipelines)
+  * Retrieval-Augmented Generation (RAG) & agentic workflows
 
 ---
 
@@ -119,8 +120,11 @@ Research-oriented Edge AI + Computer Vision project
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayKhedekar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKhedekar&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanmayKhedekar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKhedekar&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
+</p>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TanmayKhedekar&theme=radical)
 
 ---
