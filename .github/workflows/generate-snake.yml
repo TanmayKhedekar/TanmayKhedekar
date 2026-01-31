@@ -2,21 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔑 THIS IS THE FIX
+  contents: write   # REQUIRED
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: TanmayKhedekar
@@ -24,7 +24,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg
 
-      - name: Push snake animation to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
